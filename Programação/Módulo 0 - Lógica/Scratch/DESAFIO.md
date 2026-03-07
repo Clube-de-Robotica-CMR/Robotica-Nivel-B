@@ -29,7 +29,7 @@ Aqui estão alguns projetos clássicos para você ter uma ideia do que é possí
 A entrega deve ser feita pelo GitHub Classroom. Você só precisa subir um arquivo (pode ser o próprio README ou um arquivo txt) com o **link público** do seu projeto no Scratch.
 
 **Link do Classroom:**
-👉 [Clique aqui para entregar seu projeto](https://classroom.github.com/a/SEU_LINK_AQUI)
+👉 [Clique aqui para entregar seu projeto.](https://classroom.github.com/a/coz77sPt)
 
 > **⚠️ Importante:** Não esqueça de clicar em **"Compartilhar"** lá no Scratch, senão ninguém vai conseguir abrir o seu jogo!
 
