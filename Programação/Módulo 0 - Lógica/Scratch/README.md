@@ -18,3 +18,5 @@ Nesta aula, saímos da teoria binária e entramos na prática utilizando o **Scr
 Para consolidar o que aprendemos, lançamos o nosso primeiro desafio: **Desenvolver um jogo original no Scratch**. 
 
 O objetivo é aplicar todos os conceitos vistos (loops, variáveis e lógica) para criar uma experiência interativa.
+
+Acesse a descrição do desafio clicando [aqui!](./DESAFIO.md)
