@@ -19,7 +19,7 @@ Os jogos serão apresentados na nossa próxima aula. A nota será dividida em do
 ## 💡 Exemplos para Inspirar
 Aqui estão alguns projetos clássicos para você ter uma ideia do que é possível fazer (clique para abrir):
 
-* **[Soccer:](https://scratch.mit.edu/projects/37412/)** Um jogo.
+* **[Soccer:](https://scratch.mit.edu/projects/37413/)** Um jogo.
 * **[Cookie Love Story:](https://scratch.mit.edu/projects/26329196/)** Uma animação.
 * **[Gingerbread Tales:](https://scratch.mit.edu/projects/277536784/)** Uma história interativa.
 * **[Intersection:](https://scratch.mit.edu/projects/75390754/)** Um jogo.
