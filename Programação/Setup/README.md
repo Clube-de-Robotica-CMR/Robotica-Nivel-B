@@ -20,7 +20,7 @@ Siga os links abaixo para configurar cada ferramenta necessária para as nossas 
 * **O que é:** Como recebemos e entregamos as tarefas oficialmente.
 * **O que fazer:** Aprender a aceitar convites e garantir que sua entrega apareça para o professor.
 
-### [Compilador GCC/G++ (C/C++)](./cpp-compiler.md)
+### [Compilador GCC/G++ (C/C++)](./c&cpp-compiler.md)
 * **O que é:** O "tradutor" que transforma seu código escrito em algo que o computador entende e executa.
 * **O que fazer:** Instalar o compilador via MSYS2 (Windows), build-essential (Linux) ou Xcode (macOS) e configurar as Variáveis de Ambiente.
 
