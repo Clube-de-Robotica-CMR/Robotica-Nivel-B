@@ -8,19 +8,19 @@ Bem-vindo à nossa central de tutoriais! Para que você consiga programar em cas
 
 Siga os links abaixo para configurar cada ferramenta necessária para as nossas aulas:
 
-### [VS Code](./vscode.md)
+### [VS Code](./Guias/vscode.md)
 * **O que é:** O programa onde vamos escrever nossos algoritmos.
 * **O que fazer:** Baixar, instalar e configurar as extensões de C++ e tradução.
 
-### [Git & GitHub](./git-github.md)
+### [Git & GitHub](./Guias/git-github.md)
 * **O que é:** Ferramentas para salvar versões do seu código e enviar para a nuvem.
 * **O que fazer:** Instalar o Git, criar conta no GitHub e configurar seu perfil no terminal.
 
-### [GitHub Classroom](./classroom.md)
+### [GitHub Classroom](./Guias/classroom.md)
 * **O que é:** Como recebemos e entregamos as tarefas oficialmente.
 * **O que fazer:** Aprender a aceitar convites e garantir que sua entrega apareça para o professor.
 
-### [Compilador GCC/G++ (C/C++)](./c&cpp-compiler.md)
+### [Compilador GCC/G++ (C/C++)](./Guias/c&cpp-compiler.md)
 * **O que é:** O "tradutor" que transforma seu código escrito em algo que o computador entende e executa.
 * **O que fazer:** Instalar o compilador via MSYS2 (Windows), build-essential (Linux) ou Xcode (macOS) e configurar as Variáveis de Ambiente.
 
