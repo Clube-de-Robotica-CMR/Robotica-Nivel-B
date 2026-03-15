@@ -6,7 +6,7 @@ Bem-vindo à nossa central de tutoriais! Para que você consiga programar em cas
 
 ## 📺 Roteiro de Instalação (Vídeos e Guias)
 
-Siga os links abaixo para configurar cada ferramenta necessária para o nosso curso:
+Siga os links abaixo para configurar cada ferramenta necessária para as nossas aulas:
 
 ### [VS Code](./vscode.md)
 * **O que é:** O programa onde vamos escrever nossos algoritmos.
@@ -19,6 +19,10 @@ Siga os links abaixo para configurar cada ferramenta necessária para o nosso cu
 ### [GitHub Classroom](./classroom.md)
 * **O que é:** Como recebemos e entregamos as tarefas oficialmente.
 * **O que fazer:** Aprender a aceitar convites e garantir que sua entrega apareça para o professor.
+
+### [Compilador GCC/G++ (C/C++)](./cpp-compiler.md)
+* **O que é:** O "tradutor" que transforma seu código escrito em algo que o computador entende e executa.
+* **O que fazer:** Instalar o compilador via MSYS2 (Windows), build-essential (Linux) ou Xcode (macOS) e configurar as Variáveis de Ambiente.
 
 ---
 **💡 Dica:** Se você travar em algum passo, tire um print do erro e mande no nosso grupo ou traga para o laboratório. Não deixe para a última hora!
