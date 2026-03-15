@@ -22,7 +22,7 @@ Assista ao vídeo abaixo para acompanhar a instalação no seu Sistema Operacion
 4. **Variáveis de Ambiente:** Adicione o caminho **C:\msys64\ucrt64\bin** ao Path do seu Windows (conforme o passo a passo de Variáveis do Sistema).
 
 #### ⚙️ Variáveis do Sistema 
-Para que o seu computador reconheça o comando g++ em qualquer lugar, precisamos avisar ao Windows onde ele está:
+Para que o seu computador reconheça o comando gcc em qualquer lugar, precisamos avisar ao Windows onde ele está:
 
 1. **Copiar Caminho:** Abra a pasta `C:\msys64\ucrt64\bin` no seu computador e copie o endereço da barra de tarefas.
 
