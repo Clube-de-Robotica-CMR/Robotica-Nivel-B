@@ -30,7 +30,7 @@ Para que o VS Code entenda a nossa linguagem (C++) e fale português, precisamos
 ## 📸 Meu Setup 
 Aqui está como eu organizo o meu ambiente de trabalho para programar com mais eficiência (e com um ambiente mais bonito).
 
-![Meu setup do VSCode](./Meu-Setup.png)
+![Meu setup do VSCode](../Meu-Setup.png)
 
 ### 🧩 Minhas Extensões (O que eu uso):
 Estas são as ferramentas que estão instaladas no meu editor para facilitar o desenvolvimento:
