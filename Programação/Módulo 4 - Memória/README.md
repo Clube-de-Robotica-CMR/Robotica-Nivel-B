@@ -1,0 +1,3 @@
+# Módulo 4: Memória 🧠
+
+Este módulo aprofunda o funcionamento interno do computador, explorando a fundo como a memória é estruturada e manipulada. Saímos do nível de abstração das variáveis comuns para entender o sistema hexadecimal, a representação de endereços e o uso de ponteiros. Compreendemos a divisão física e lógica do programa entre Stack e Heap, aprendemos a passar dados por referência e descobrimos como acessar e modificar informações diretamente onde elas residem na memória.
