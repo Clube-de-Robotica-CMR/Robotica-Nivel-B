@@ -7,4 +7,4 @@ Para completar o **Conjunto de Problemas 4**, faça os seguintes desafios (prefe
 3. **[Mínimo e máximo](./problemas/minmax.md)**
 4. **[Caixa eletrônico](./problemas/caixa.md)**
 
-> obs: Clique [aqui](./lib.zip) para baixar a biblioteca do cs50.
+> obs: Clique <a href="lib.zip" download>aqui</a> para baixar a biblioteca do cs50.
