@@ -1,0 +1,3 @@
+# Módulo 5: C++ ➕
+
+Este módulo visa apresentar as diferenças e auxiliar na transição do C para o C++, onde saímos do paradigma procedural para o orientado a objetos. É demonstrado as principais evoluções que o C++ trouxe para o mundo da programação, com os namespaces permitindo uma maior organização, as classes como structs capazes de "realizar ações" e uma manipulação facilita do fluxo de input e output. 
